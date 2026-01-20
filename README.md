@@ -1,9 +1,21 @@
-# WEB
-.gitignore
-# requirements.txt
-pandas
-scipy
-streamlit
-run streamlit
-# https://readme-md-4u9m.onrender.com
-streamlit run app.py
+# .streamlit/config.toml
+[server]
+headless = True
+port = 10000
+
+[browser]
+serverAdress = "0.0.0.0"
+sererPort = 10000
+
+# requerements.txt
+pandas==1.3.1
+streamlit==1.12.2
+plotly==5.0.0
+
+# app.py
+
+# vehicles_us.csv
+
+# REAME.md
+
+# .gitinore
