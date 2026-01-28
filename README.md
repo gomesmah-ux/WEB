@@ -7,7 +7,7 @@ port = 10000
 serverAdress = "0.0.0.0"
 sererPort = 10000
 
-# requerements.txt
+# requeriment.txt
 pandas==1.3.1
 streamlit==1.12.2
 plotly==5.0.0
