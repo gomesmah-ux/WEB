@@ -1,4 +1,5 @@
 # .streamlit/config.toml
+
 [server]
 headless = True
 port = 10000
