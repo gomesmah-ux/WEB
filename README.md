@@ -1,4 +1,3 @@
-https://app-web-18.onrender.com/
 # .streamlit/config.toml
 [server]
 headless = True
